@@ -8,7 +8,9 @@ About Me
 🎓 Education: Fresher with a keen interest in software development
 📫 How to reach me: praveenbesetti0@gmail.com
 🌍 Location: visakhapatnam, Andhra Pradesh 
+
 Internships
+
 Intern 1: Adhoc Network (Java Full Stack)
 During my internship at Adhoc Network, I worked on developing and maintaining
 full stack applications using Java, Spring Boot,
