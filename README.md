@@ -32,7 +32,7 @@ GitHub Stats
 
 Let's Connect
 LinkedIn :https://www.linkedin.com/in/besetti-praveen-691207267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-Personal Website : Praveenportfolio123.netlify.app
+Personal Website :https://www.Praveenportfolio123.netlify.app
 Fun Facts
 🧠 I love solving complex problems and challenges
 🎮 In my free time, I enjoy gaming and exploring new tech trends
